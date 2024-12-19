@@ -1,0 +1,1 @@
+# GenAI Retail Store Project
